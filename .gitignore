@@ -1,0 +1,16 @@
+myvenv
+db.sqlite3
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+.env
+.profile
+.ssh/id_rsa
+.ssh/id_rsa.pub
+.ssh/known_hosts
+.ssh/known_hosts.old
+.sudo_as_admin_successful
+.vim/.netrwhist
+.viminfo
+.gitconfig
